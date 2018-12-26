@@ -4,7 +4,7 @@ title: Design Thinking
 
 #[1주자 Reflection] Design Thinking 방법론
 
-| 단계 | 정의 | 활용 Tool |
+| <center>단계</center> | <center>정의</center> | <center>활용 Tool</center> |
 |:--------|:--------|:--------|
 | **공감(Empathize)** | 관찰, 인터뷰, 체험으로 문제점을 발견하는 단계 | 1. 공감지도: 관찰을 위해 인터뷰하는 기법 |
 |     |       | 2. 페르소나: 특정 사용자 그룹을 대표하는 가상 인물을 설정하여 구체적이고 명확한 대상 정하기 |
