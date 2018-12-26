@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "팀이다."
 url                      : "https://CHJtlqd.github.io"
-baseurl                  : "/pages"
+baseurl                  : "pages"
 repository               : # GitHub username/repo-name e.g. "CHJtlqd/pages"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
