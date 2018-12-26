@@ -7,7 +7,7 @@ title: Dr. Movie
 구미_3_최홍준, https://github.com/CHJtlqd/Tutorial
 
 **Ⅰ. 스펙(Specification)**
-**<hr/>**
+<hr/>
 
 
 구현된 어플리케이션의 주요 기능
@@ -27,7 +27,7 @@ title: Dr. Movie
   * 챗봇에서 사용자에게 지역을 입력받은 후 셀레니움을 통해 네이버에서 지역 상영관을 검색한 후 주소를 크롤링 한다.
 
 **Ⅱ. 회고(Retrospective)**
-**<hr/>**
+<hr/>
 
 
 어플리케이션 구현 과정에서의 어려움과 문제점
@@ -36,7 +36,7 @@ title: Dr. Movie
   * 짧은 시간에 결과물을 내는 데 어려움을 겪음
   
 **Ⅲ. 보완 계획(Feedback)**
-**<hr/>**
+<hr/>
 
 
 현재 미완성이지만 추가로 구현할 기능 및 기존 문제점 보완 계획
