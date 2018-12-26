@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "팀명"
+title                    : "2W4M"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "팀이다."
+description              : ""
 url                      : "https://CHJtlqd.github.io"
 baseurl                  : "pages"
 repository               : # GitHub username/repo-name e.g. "CHJtlqd/pages"
